@@ -11,3 +11,10 @@ FadeIn 과 동시에 타이틀은 위로, 이미지는 아래로 내려오는 [�
 [ref](https://github.com/HanGyeolee/ParadigmShift/blob/main/src/App.js#L72)를 지정하여 스크롤이 도착할 위치를 저장하였습니다.
 
 [Astral repository](https://github.com/HanGyeolee/Astral#es6-%EB%AC%B8%EB%B2%95)에서와 동일하게 화면에 표현되는 제목들을 [배열 맵핑](https://github.com/HanGyeolee/ParadigmShift/blob/main/src/App.js#L311)으로 구현하였습니다.
+``` jsx
+<section>
+  {banners.map((obj, index) => (
+    <Banner class={obj.class} key={index} content={obj.content}>{obj.children}</Banner>
+  ))}
+</section>
+```
