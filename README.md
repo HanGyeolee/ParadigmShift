@@ -3,7 +3,7 @@
 
 리액트를 공부하게 되면서 상기시켜야할 만한 부분들을 정리하였습니다.
 
-##[App.js](https://github.com/HanGyeolee/ParadigmShift/blob/main/src/App.js)
+## [App.js](https://github.com/HanGyeolee/ParadigmShift/blob/main/src/App.js)
 화면이 처음에 로딩이 된 후에 최상단의 내용에 [FadeIn 애니메이팅](https://github.com/HanGyeolee/ParadigmShift/blob/main/src/App.css#L11)을 넣었습니다.
 FadeIn 과 동시에 타이틀은 위로, 이미지는 아래로 내려오는 [애니메이팅](https://github.com/HanGyeolee/ParadigmShift/blob/main/src/App.css#L155) 또한 동일하게 구현하였습니다.
 
