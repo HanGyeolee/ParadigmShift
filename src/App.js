@@ -12,9 +12,6 @@ import './App.css';
 import './Main.css';
 import {useState, useRef} from 'react'
 
-// 2시간 08분 + 58분 + 1시간 28분 + 2시간 32분 = 6시간 58분
-// https://html5up.net/uploads/demos/paradigm-shift/
-
 function Banner(props) {
   return (
     <div className={props.class}>
