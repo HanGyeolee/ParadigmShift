@@ -65,7 +65,7 @@ function App() {
       </header>
         ,
       children: 
-      <img className="movingupanimation" src=".ParadigmShift/img/pic01.jpg"></img>
+      <img className="movingupanimation" src="./img/pic01.jpg"></img>
     },
     {
       content: 
@@ -79,7 +79,7 @@ function App() {
       children: 
       <div>
         <p><b>Lorem ipsum dolor</b> sit amet consectetur adipiscing elit. Duis dapibus rutrum facilisis. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Etiam tristique libero eu nibh porttitor amet fermentum. Nullam venenatis erat id vehicula ultrices sed ultricies condimentum. Magna sed etiam consequat, et lorem adipiscing sed nulla. Volutpat nisl et tempus et dolor libero, feugiat magna tempus, sed et lorem adipiscing.</p>
-        <img src=".ParadigmShift/img/pic02.jpg"></img>
+        <img src="./img/pic02.jpg"></img>
       </div>
     },
     {
@@ -138,16 +138,16 @@ function App() {
         ,
       children: 
       <div>
-        <img className="clickable" src=".ParadigmShift/img/01.jpg" alt="girl"
-        onClick={() => LoadFullImg(".ParadigmShift/img/01.jpg", "girl")} ></img>
+        <img className="clickable" src="./img/01.jpg" alt="girl"
+        onClick={() => LoadFullImg("./img/01.jpg", "girl")} ></img>
         <div>
-          <img className="clickable" src=".ParadigmShift/img/02.jpg" alt="dog"
-        onClick={() => LoadFullImg(".ParadigmShift/img/02.jpg", "dog")} ></img>
-          <img className="clickable" src=".ParadigmShift/img/03.jpg" alt="apartment"
-        onClick={() => LoadFullImg(".ParadigmShift/img/03.jpg", "apartment")} ></img>
+          <img className="clickable" src="./img/02.jpg" alt="dog"
+        onClick={() => LoadFullImg("./img/02.jpg", "dog")} ></img>
+          <img className="clickable" src="./img/03.jpg" alt="apartment"
+        onClick={() => LoadFullImg("./img/03.jpg", "apartment")} ></img>
         </div>
-        <img className="clickable"  src=".ParadigmShift/img/04.jpg" alt="bicycle"
-        onClick={() => LoadFullImg(".ParadigmShift/img/04.jpg", "bicycle")} ></img>
+        <img className="clickable"  src="./img/04.jpg" alt="bicycle"
+        onClick={() => LoadFullImg("./img/04.jpg", "bicycle")} ></img>
       </div>
     },
     {
@@ -170,13 +170,13 @@ function App() {
         ,
       children:
       <div>
-        <img className="clickable"  src=".ParadigmShift/img/05.jpg" alt="roof"
-        onClick={() => LoadFullImg(".ParadigmShift/img/05.jpg", "roof")} ></img>
+        <img className="clickable"  src="./img/05.jpg" alt="roof"
+        onClick={() => LoadFullImg("./img/05.jpg", "roof")} ></img>
         <div>
-          <img className="clickable"  src=".ParadigmShift/img/06.jpg" alt="shoe"
-        onClick={() => LoadFullImg(".ParadigmShift/img/06.jpg", "shoe")} ></img>
-          <img className="clickable"  src=".ParadigmShift/img/07.jpg" alt="desk"
-        onClick={() => LoadFullImg(".ParadigmShift/img/07.jpg", "desk")} ></img>
+          <img className="clickable"  src="./img/06.jpg" alt="shoe"
+        onClick={() => LoadFullImg("./img/06.jpg", "shoe")} ></img>
+          <img className="clickable"  src="./img/07.jpg" alt="desk"
+        onClick={() => LoadFullImg("./img/07.jpg", "desk")} ></img>
         </div>
       </div> 
     },
@@ -200,13 +200,13 @@ function App() {
       children: 
       <div>
         <div>
-          <img className="clickable"  src=".ParadigmShift/img/08.jpg" alt="mountain"
-        onClick={() => LoadFullImg(".ParadigmShift/img/08.jpg", "mountain")} ></img>
-          <img className="clickable"  src=".ParadigmShift/img/09.jpg" alt="basketball"
-        onClick={() => LoadFullImg(".ParadigmShift/img/09.jpg", "basketball")} ></img>
+          <img className="clickable"  src="./img/08.jpg" alt="mountain"
+        onClick={() => LoadFullImg("./img/08.jpg", "mountain")} ></img>
+          <img className="clickable"  src="./img/09.jpg" alt="basketball"
+        onClick={() => LoadFullImg("./img/09.jpg", "basketball")} ></img>
         </div>
-        <img className="clickable"  src=".ParadigmShift/img/10.jpg" alt="hall"
-        onClick={() => LoadFullImg(".ParadigmShift/img/10.jpg", "hall")} ></img>
+        <img className="clickable"  src="./img/10.jpg" alt="hall"
+        onClick={() => LoadFullImg("./img/10.jpg", "hall")} ></img>
       </div>
     },
     {
