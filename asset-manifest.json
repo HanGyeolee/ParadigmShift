@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/ParadigmShift/static/css/main.167b4ef3.chunk.css",
-    "main.js": "/ParadigmShift/static/js/main.f4051d9c.chunk.js",
-    "main.js.map": "/ParadigmShift/static/js/main.f4051d9c.chunk.js.map",
+    "main.js": "/ParadigmShift/static/js/main.9618a096.chunk.js",
+    "main.js.map": "/ParadigmShift/static/js/main.9618a096.chunk.js.map",
     "runtime-main.js": "/ParadigmShift/static/js/runtime-main.bf82edff.js",
     "runtime-main.js.map": "/ParadigmShift/static/js/runtime-main.bf82edff.js.map",
     "static/js/2.c99e36cb.chunk.js": "/ParadigmShift/static/js/2.c99e36cb.chunk.js",
@@ -30,6 +30,6 @@
     "static/js/runtime-main.bf82edff.js",
     "static/js/2.c99e36cb.chunk.js",
     "static/css/main.167b4ef3.chunk.css",
-    "static/js/main.f4051d9c.chunk.js"
+    "static/js/main.9618a096.chunk.js"
   ]
 }
