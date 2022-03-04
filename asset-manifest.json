@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/ParadigmShift/static/css/main.167b4ef3.chunk.css",
+    "main.js": "/ParadigmShift/static/js/main.f4051d9c.chunk.js",
+    "main.js.map": "/ParadigmShift/static/js/main.f4051d9c.chunk.js.map",
+    "runtime-main.js": "/ParadigmShift/static/js/runtime-main.bf82edff.js",
+    "runtime-main.js.map": "/ParadigmShift/static/js/runtime-main.bf82edff.js.map",
+    "static/js/2.c99e36cb.chunk.js": "/ParadigmShift/static/js/2.c99e36cb.chunk.js",
+    "static/js/2.c99e36cb.chunk.js.map": "/ParadigmShift/static/js/2.c99e36cb.chunk.js.map",
+    "static/js/3.df703e1e.chunk.js": "/ParadigmShift/static/js/3.df703e1e.chunk.js",
+    "static/js/3.df703e1e.chunk.js.map": "/ParadigmShift/static/js/3.df703e1e.chunk.js.map",
+    "static/js/4.5f8f0751.chunk.js": "/ParadigmShift/static/js/4.5f8f0751.chunk.js",
+    "static/js/4.5f8f0751.chunk.js.map": "/ParadigmShift/static/js/4.5f8f0751.chunk.js.map",
+    "index.html": "/ParadigmShift/index.html",
+    "static/css/main.167b4ef3.chunk.css.map": "/ParadigmShift/static/css/main.167b4ef3.chunk.css.map",
+    "static/js/2.c99e36cb.chunk.js.LICENSE.txt": "/ParadigmShift/static/js/2.c99e36cb.chunk.js.LICENSE.txt",
+    "static/media/arrow.4d40e488.svg": "/ParadigmShift/static/media/arrow.4d40e488.svg",
+    "static/media/App.css": "/ParadigmShift/static/media/signal-solid.8311f2d5.svg",
+    "static/media/Main.css": "/ParadigmShift/static/media/check-solid.2f94d1e5.svg",
+    "static/media/codepen-brands.9c6d9e9b.svg": "/ParadigmShift/static/media/codepen-brands.9c6d9e9b.svg",
+    "static/media/cycle.1cec07f6.svg": "/ParadigmShift/static/media/cycle.1cec07f6.svg",
+    "static/media/facebook-f-brands.c719a013.svg": "/ParadigmShift/static/media/facebook-f-brands.c719a013.svg",
+    "static/media/github-brands.e2f07326.svg": "/ParadigmShift/static/media/github-brands.e2f07326.svg",
+    "static/media/instagram-brands.90a80cd5.svg": "/ParadigmShift/static/media/instagram-brands.90a80cd5.svg",
+    "static/media/linkedin-in-brands.8fb0cfb6.svg": "/ParadigmShift/static/media/linkedin-in-brands.8fb0cfb6.svg",
+    "static/media/twitter-brands.87682341.svg": "/ParadigmShift/static/media/twitter-brands.87682341.svg",
+    "static/media/x.eb4ccdbe.svg": "/ParadigmShift/static/media/x.eb4ccdbe.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bf82edff.js",
+    "static/js/2.c99e36cb.chunk.js",
+    "static/css/main.167b4ef3.chunk.css",
+    "static/js/main.f4051d9c.chunk.js"
+  ]
+}
